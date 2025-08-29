@@ -36,6 +36,22 @@
        - Repite el proceso con OR y XOR para compararlo todo.
 
 
+2. Como ejecutar el archivo.wl?:
+
+   Para poder ejecutar el entrenamiento y la red neuronal, se necesita tener instalado el Wolfram Engine o el wolframscript, ambos descargables gratis en la pagina oficial de Wolfram. Una vez hecho esto, desde Command Prompt ejecutamos el siguiente comando:
+
+   <img width="130" height="22" alt="Screenshot 2025-08-28 235503" src="https://github.com/user-attachments/assets/e82a75dd-6d76-41ea-8bf9-04bfd4322d3c" />
+
+   Si la instalación salio bien, la consola deberia imprimir lo siguiente:
+
+   <img width="557" height="76" alt="imagen_2025-08-28_235644915" src="https://github.com/user-attachments/assets/1780be74-04ab-4737-b448-b6cdfe795c54" />
+
+   Una vez verificado, guardamos el archivo rnacompuertas.wl en la carpeta que el Command Prompt este analizando para asegurarnos de que no ocurra ningun error al momento de ejecutarlo. Con el archivo ya guardado, solo ejecutamos el siguiente comando en la consola:
+
+   <img width="335" height="23" alt="imagen_2025-08-28_235955518" src="https://github.com/user-attachments/assets/09a4f74b-2862-484f-accb-6ce0e8dd613b" />
+
+
+
    
 
 
