@@ -4,10 +4,9 @@ targetsAND={{0}, {0}, {0}, {1}};
 targetsOR={{0}, {1}, {1}, {1}};
 targetsXOR={{0}, {1}, {1}, {0}};
 
-(*Red neuronal simple con capa oculta*)
 net = NetChain[{
-   LinearLayer[2], Tanh,  (*capa oculta con activación*)
-   LinearLayer[1], LogisticSigmoid (*salida entre 0 y 1*)
+   LinearLayer[2], Tanh,
+   LinearLayer[1], LogisticSigmoid
 }];
 
 (*Entrenamos para AND*)
@@ -37,3 +36,4 @@ Do[
   Print[input, " -> ", Round[trainedXOR[input]]],
   {input, inputs}
 ];
+
