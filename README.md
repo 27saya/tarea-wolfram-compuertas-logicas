@@ -50,6 +50,8 @@
 
    <img width="335" height="23" alt="imagen_2025-08-28_235955518" src="https://github.com/user-attachments/assets/09a4f74b-2862-484f-accb-6ce0e8dd613b" />
 
+   Esto ejecutara el archivo de la red neuronal, empezando el entrenamiento y mostrando los resultados al final :D
+
 
 
    
