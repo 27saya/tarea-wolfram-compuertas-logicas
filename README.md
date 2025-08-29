@@ -17,6 +17,15 @@
       - Tanh: Función que hace que los valores se mantengan entre -1 y 1.
       - LinearLayer[1]: Salida con una sola neurona (la respuesta final).
       - LogisticSigmoid: Convierte la salida a un valor entre 0 y 1, es ideal para respuestas de si y no.
+
+   - El entrenamiento:
+
+     <img width="453" height="110" alt="imagen_2025-08-28_233936616" src="https://github.com/user-attachments/assets/d830c020-f558-45db-bad6-f4a8099aa640" />
+
+       - NetTrain: Enseña a la red comparando sus respuestas con las deseadas.
+       - Thread[]: Empareja cada entrada con la salida correspondiente.
+       - Esto se repite para AND, OR Y XOR, obteniendo al final 3 redes distintas que aprendieron ya su compuerta.
+
    
 
 
