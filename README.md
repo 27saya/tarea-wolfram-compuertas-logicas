@@ -26,6 +26,16 @@
        - Thread[]: Empareja cada entrada con la salida correspondiente.
        - Esto se repite para AND, OR Y XOR, obteniendo al final 3 redes distintas que aprendieron ya su compuerta.
 
+   - Mostrar los resultados:
+
+     <img width="396" height="323" alt="imagen_2025-08-28_234431378" src="https://github.com/user-attachments/assets/01b18efc-31b7-4d5a-8d9c-019d68d2b197" />
+
+       - Do: Recorre todas las entradas posibles.
+       - trainedAND[input]: La red hace su predicción del resultado.
+       - Round: Redondea ese resultado a 0 o 1 (para que sea fiel a la tabla de verdad de la compuerta correspondiente, ya que el resultado arrojado por la red no es exacto).
+       - Repite el proceso con OR y XOR para compararlo todo.
+
+
    
 
 
