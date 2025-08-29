@@ -38,7 +38,7 @@
 
 2. Como ejecutar el archivo.wl?:
 
-   Para poder ejecutar el entrenamiento y la red neuronal, se necesita tener instalado el Wolfram Engine o el wolframscript, ambos descargables gratis en la pagina oficial de Wolfram. Una vez hecho esto, desde Command Prompt ejecutamos el siguiente comando:
+   Para poder ejecutar el entrenamiento y la red neuronal, se necesita tener instalado el Wolfram Engine o el wolframscript, ambos descargables de forma gratuita en la pagina oficial de Wolfram. Una vez hecho esto, desde Command Prompt ejecutamos el siguiente comando:
 
    <img width="130" height="22" alt="Screenshot 2025-08-28 235503" src="https://github.com/user-attachments/assets/e82a75dd-6d76-41ea-8bf9-04bfd4322d3c" />
 
