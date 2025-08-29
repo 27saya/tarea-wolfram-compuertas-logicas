@@ -46,7 +46,7 @@
 
    <img width="557" height="76" alt="imagen_2025-08-28_235644915" src="https://github.com/user-attachments/assets/1780be74-04ab-4737-b448-b6cdfe795c54" />
 
-   Una vez verificado, guardamos el archivo rnacompuertas.wl en la carpeta que el Command Prompt este analizando para asegurarnos de que no ocurra ningun error al momento de ejecutarlo. Con el archivo ya guardado, solo ejecutamos el siguiente comando en la consola:
+   Una vez verificado, cerramos esa ventana, abrimos otra en el Command Prompt y guardamos el archivo rnacompuertas.wl en la carpeta que este analizando para asegurarnos de que no ocurra ningun error al momento de ejecutarlo. Con el archivo ya guardado, solo ejecutamos el siguiente comando en la consola:
 
    <img width="335" height="23" alt="imagen_2025-08-28_235955518" src="https://github.com/user-attachments/assets/09a4f74b-2862-484f-accb-6ce0e8dd613b" />
 
