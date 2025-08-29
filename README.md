@@ -5,5 +5,5 @@
 
      <img width="339" height="100" alt="imagen_2025-08-28_233023130" src="https://github.com/user-attachments/assets/8e09bc40-00e5-4a87-8df1-e109f7a2662b" />
 
-   Con los inputs, nos referimos a las combinaciones posibles de dos bits.
+   Con los inputs, nos referimos a las combinaciones posibles de dos bits. Mientras que con los targets, definimos las respuestas que queremos que aprenda la red para cada compuerta.
 
